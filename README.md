@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 
 <a href="https://codetrainer.pepinelli.dev"><img src="https://codetrainer.pepinelli.dev/api/card/lpepinelli?role=Software%20Eng.&skills=aws,terraform,ts,csharp&shine&auto-flip=15&private" alt="lpepinelli's Code Trainer Card" width="500"></a>
+
+</div>
