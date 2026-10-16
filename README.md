@@ -1,4 +1,4 @@
-<a href="https://codetrainer.pepinelli.dev"><img align="right" width="420" src="https://codetrainer.pepinelli.dev/api/card/lpepinelli?role=Software%20Eng.&skills=aws,terraform,ts,csharp&shine&auto-flip=15&private" alt="lpepinelli's Code Trainer Card"></a>
+<a href="https://codetrainer.pepinelli.dev"><img align="right" width="420" src="https://codetrainer.pepinelli.dev/api/card/lpepinelli?role=Software%20Eng.&skills=aws,terraform,ts,csharp&shine&float&auto-flip=15&private" alt="lpepinelli's Code Trainer Card"></a>
 
 ### Hi, I'm Leo 👋
 
