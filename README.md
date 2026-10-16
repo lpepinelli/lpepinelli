@@ -1,21 +1,21 @@
-## Hi there 👋
+<a href="https://codetrainer.pepinelli.dev"><img align="right" width="420" src="https://codetrainer.pepinelli.dev/api/card/lpepinelli?role=Software%20Eng.&skills=aws,terraform,ts,csharp&shine&auto-flip=15&private" alt="lpepinelli's Code Trainer Card"></a>
 
-<!--
-**lpepinelli/lpepinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Leo 👋
 
-Here are some ideas to get you started:
+Senior Software Engineer at **Cox Automotive Brasil**, building backend systems, cloud infrastructure and distributed applications with **TypeScript**, **C#** and **AWS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
+  I started in help desk, spent years as a sysadmin, and have been writing software professionally since 2021.
 
-<a href="https://codetrainer.pepinelli.dev"><img src="https://codetrainer.pepinelli.dev/api/card/lpepinelli?role=Software%20Eng.&skills=aws,terraform,ts,csharp&shine&auto-flip=15&private" alt="lpepinelli's Code Trainer Card" width="500"></a>
+  Outside of work, I enjoy building side projects and exploring new technologies, usually with a fresh cup of coffee in hand. ☕
 
-</div>
+  <br clear="right"/>
+
+### 🛠️ Public things I've built
+
+- **[Code Trainer Card](https://github.com/lpepinelli/CodeTrainerCard)**: the Pokémon FireRed-style card above, generated from your GitHub profile. React and TypeScript, an API on AWS Lambda, Terraform and CI deploys through OIDC. [Make yours →](https://codetrainer.pepinelli.dev)
+- **[Memento Mori](https://github.com/lpepinelli/memento-mori)**: estimates how many days you have left to live, as a nudge to use them well. React and TypeScript. [Live →](https://mementomori.pepinelli.dev)
+- **[omarchy-plugins](https://github.com/lpepinelli/omarchy-plugins)**: an Omarchy bar widget that shows the battery of both halves of a split keyboard.
+
+### 📫 Find me
+
+  [pepinelli.dev](https://pepinelli.dev) · [Blog](https://blog.pepinelli.dev) · [LinkedIn](https://www.linkedin.com/in/leonardopepinelli/)
